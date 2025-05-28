@@ -13,4 +13,4 @@ The project includes:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/fernanda/simplePageHtml.git
+git clone https://github.com/fernanda/simplePage.git
